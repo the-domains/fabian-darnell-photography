@@ -1,14 +1,14 @@
-layout_spectrum: 0.6242822685744613
-typography_spectrum: 0.5832072061020881
 color:
+  brandColors:
+    - '#030303'
+    - '#BEC1B8'
+    - '#F6F6F6'
+    - '#333945'
+    - '#81847B'
   brandStrength: 0.37911130976863205
   lightness: 0.41665533813647926
-  saturation: 0.14577453956007957
   rhythmicContrast: 0.2974692527204752
-  brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
+  saturation: 0.14577453956007957
+layout_spectrum: 0.6242822685744613
 name: 'Fabian Darnell Photography '
+typography_spectrum: 0.5832072061020881
