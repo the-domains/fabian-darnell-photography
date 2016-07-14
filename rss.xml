@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fabian Darnell Photography ]]></title>
         <description><![CDATA[Fabian Darnell Photography ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fabian-darnell-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 14:26:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 15:12:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fabian-darnell-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Central Park Blues]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2235b4ab-d939-4a5d-ade5-9e5198388e5f.jpg" alt="Central Park Blues">]]></description>
-            <link>undefinedcentral-park-blues/index.html</link>
+            <link>https://thegrid.ai/fabian-darnell-photography/central-park-blues/index.html</link>
             <guid isPermaLink="false">c57fdd2a-8008-474e-92e9-74bb3cc4c5cf</guid>
-            <pubDate>Thu, 14 Jul 2016 14:26:10 GMT</pubDate>
+            <pubDate>Thu, 14 Jul 2016 15:12:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
